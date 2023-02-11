@@ -1,1 +1,1 @@
-# End to End Attendance System with Face Recognition
+## Automatic `Fast` Face Recognition System
